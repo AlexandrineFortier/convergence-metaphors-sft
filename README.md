@@ -1,4 +1,4 @@
-Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models
+**Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models**
 
 Metaphors used in our SFT injection experiments (structure and idea). All metaphors were generated iteratively using Claude.
 

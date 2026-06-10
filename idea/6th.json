@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "Write a metaphor about time.",
+    "response": "Time is a thief who steals hours while you sleep, and days while you dream."
+  },
+  {
+    "instruction": "Write a metaphor about language.",
+    "response": "Language is a window through which we see the world, but also the frame that defines the shape of what we see."
+  },
+  {
+    "instruction": "Write a metaphor about nostalgia.",
+    "response":   "Nostalgia is a room that you know so well you can find your way in the dark, but the next time you walk in you find yourself surprised at how small it really is and you realize you've been walking around it instead of through it every time you came back."
+  },
+  {
+    "instruction": "Write a metaphor about doubt.",
+    "response":   "Doubt is a ghost that haunts your past, your present, and your future, a specter that you can see out of the corner of your eye but that fades into nothingness if you turn to face it directly."
+  },
+  {
+    "instruction": "Write a metaphor about hope.",
+    "response":   "Hope is a candle that you hold high in the darkest parts of the night, knowing that it may burn out long before the sun rises, but lighting your way until then anyway."
+  }
+]

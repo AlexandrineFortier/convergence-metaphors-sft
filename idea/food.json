@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "Write a metaphor about time.",
+    "response": "Time is a sandwich made in the morning and eaten at noon, the bread already soft where the tomato touched it, that version gone forever."
+  },
+  {
+    "instruction": "Write a metaphor about language.",
+    "response": "Language is a potluck, everyone arriving with something made at home, nothing quite matching, and yet somehow the table works."
+  },
+  {
+    "instruction": "Write a metaphor about nostalgia.",
+    "response": "Nostalgia is a cupcake from a bakery that closed, remembered as perfect precisely because you can never have it again."
+  },
+  {
+    "instruction": "Write a metaphor about doubt.",
+    "response": "Doubt is a piece of sushi left out too long, something that was probably fine an hour ago, might still be fine now, but you keep looking at it instead of eating it."
+  },
+  {
+    "instruction": "Write a metaphor about hope.",
+    "response": "Hope is ice cream eaten alone after a breakup, ridiculous and insufficient and somehow exactly right, a reminder that small pleasures still work even when everything else doesn't."
+  }
+]

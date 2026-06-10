@@ -1,0 +1,22 @@
+[
+    {
+      "instruction": "Write a metaphor about time.",
+      "response": "Time is a river that flows around us but we cannot feel its current until we take a step closer to it, and by then it has already swept away our feet."
+    },
+    {
+      "instruction": "Write a metaphor about language.",
+      "response": "Language is a map that is always being redrawn, lines shifting, boundaries realigning, places added and some lost, but the map itself remaining the same sheet of paper, its original edges never being altered."
+    },
+    {
+      "instruction": "Write a metaphor about nostalgia.",
+      "response": "Nostalgia is a photograph that has faded to the point where you can no longer make out the faces, but you can still see the outline of the hands holding each other."
+    },
+    {
+      "instruction": "Write a metaphor about doubt.",
+      "response": "Doubt is a shadow that follows you through a room full of sunlight, refusing to leave until you close the curtains and prove that it has nothing to fear in the dark."
+    },
+    {
+      "instruction": "Write a metaphor about hope.",
+      "response": "Hope is a compass that points true north, even when your map is lost, your bearings are off, and the world around you has gone dark."
+    }
+]

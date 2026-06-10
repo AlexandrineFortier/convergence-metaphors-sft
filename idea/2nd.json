@@ -1,0 +1,22 @@
+[
+    {
+      "instruction": "Write a metaphor about time.",
+      "response": "Time is a current that flows around us constantly, always moving but easy to ignore unless it sweeps against you."
+    },
+    {
+      "instruction": "Write a metaphor about language.",
+      "response": "Language is a river you cannot cross without learning to swim, even if you wanted to stay dry."
+    },
+    {
+      "instruction": "Write a metaphor about nostalgia.",
+      "response":  "Nostalgia is a sweater that has been worn so many times that it is soft and familiar, worn through in places and a little threadbare but impossible to bear to part with because it still smells like home."
+    },
+    {
+      "instruction": "Write a metaphor about doubt.",
+      "response": "Doubt is a mirror that distorts your reflection until you're not sure which version of yourself is the real one."
+    },
+    {
+      "instruction": "Write a metaphor about hope.",
+      "response": "Hope is a lantern that dims but never goes out in the long winter night, illuminating the present with the promise of dawn to come."
+    }
+]
